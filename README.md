@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Pola Mounir Samir</h1>
-<h3 align="center">React Front-End Developer | MERN Stack Enthusiast</h3>
+<h1 align="start">Hi 👋 I'm Pola Mounir Samir</h1>
+<h3 align="start">React Front-End Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://polamounir.netlify.app/"><strong>🌐 Portfolio</strong></a> |
@@ -30,7 +30,7 @@ Multi-role web platform for electronics parts (Admin, Supplier, Buyer)
 - 🧾 Product search, filtering, promo codes, reviews
 
 **Tech**: React, Redux Toolkit, Tailwind CSS, SignalR, Chart.js  
-[Live Demo](#) | [Code](#)
+[Live Demo](https://medical-prediction.vercel.app/) | [Code](https://github.com/polamounir/medical-predictions)
 
 ---
 
