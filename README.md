@@ -1,5 +1,5 @@
 <h1 align="start">Hi 👋 I'm Pola Mounir Samir</h1>
-<h3 align="start">React Front-End Developer | MERN Stack Enthusiast</h3>
+<h3 align="start">Front-End Developer</h3>
 
 <p align="start">
   <a href="https://polamounir.netlify.app/"><strong>🌐 Portfolio</strong></a> |
