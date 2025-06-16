@@ -15,7 +15,7 @@ I'm a **React Front-End Developer** based in Giza, Egypt, with over a year of ha
 
 - 🔭 Currently building: **Electoo AR E-Commerce Platform**
 - 🌱 Learning: **Next.js**
-- 🤝 Open to collaborate on: **ERP Systems** | **AI/ML Projects**
+- 🤝 Open to build: **ERP Systems** | **AI/ML Projects**
 - 📄 [Download My Resume](https://polamounir.netlify.app/pola_mounir.pdf)
 
 ---
@@ -37,21 +37,21 @@ Multi-role web platform for electronics parts (Admin, Supplier, Buyer)
 #### 🏥 Baymax – Medical Prediction App
 AI-powered diagnosis chatbot that predicts conditions based on symptoms  
 **Tech**: React, AI APIs, Tailwind CSS  
-[Live Demo](#) | [Code](#)
+[Live Demo](https://electroo.vercel.app/) | [Code](https://github.com/polamounir/electroo)
 
 ---
 
 #### 🎓 Online Courses Academy
 Learning management system with exams, CV builder, and user dashboards  
-**Tech**: React, Redux Toolkit, Tailwind CSS  
-[Live Demo](#) | [Code](#)
+**Tech**: React, Redux Toolkit, Bootstrap CSS  
+[Live Demo](https://sef-gold.vercel.app/) | [Code](https://github.com/polamounir/SEF/)
 
 ---
 
 #### 🌤️ Weather Forecast App
 Simple responsive weather app by country  
 **Tech**: React, Weather API, Tailwind CSS  
-[Live Demo](#)
+[Live Demo](https://weather-app-pola-mounirs-projects.vercel.app/)  | [Code](https://github.com/polamounir/Weather-app)
 
 ---
 
