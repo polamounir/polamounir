@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋 I'm Pola Mounir Samir</h1>
 <h3 align="start">React Front-End Developer | MERN Stack Enthusiast</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://polamounir.netlify.app/"><strong>🌐 Portfolio</strong></a> |
   <a href="https://www.linkedin.com/in/pola-mounir-samir/"><strong>🔗 LinkedIn</strong></a> |
   <a href="https://github.com/polamounir"><strong>💻 GitHub</strong></a> |
