@@ -72,12 +72,11 @@ REST APIs • External API Integration • Chart.js • SignalR • Google OAuth
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polamounir&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polamounir&layout=compact&theme=react" alt="Top Languages" />
-</p>
+##<p align="center">
+  ##<img src="https://github-readme-stats.vercel.app/api?username=polamounir&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
+  $$<br/>
+ ## <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polamounir&layout=compact&theme=react" alt="Top Languages" />
+##</p>
 
 ---
 
